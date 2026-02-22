@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\exercise\create_scada_version_control\build\windows\x64\CMakeFiles\c79742a3f3d7d48f948e46661f4db78b\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{151D0D50-7495-3CA4-A71E-C6FE2D9BD126}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
